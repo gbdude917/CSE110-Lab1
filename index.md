@@ -28,12 +28,12 @@ print("Hello, World!)
 ## Fun Website I Browse Sometimes
 I enjoy reading some [xkcd](https://xkcd.com/).
 
-![much speak. such doge.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.unimelb.edu.au%2Fsciencecommunication%2F2016%2F10%2F22%2Fhow-to-speak-doge%2F&psig=AOvVaw0nwA4cDgxw0RW4t67mm34G&ust=1632620461321000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDdsa3_mPMCFQAAAAAdAAAAABAI)
+![much speak. such doge.](https://static.independent.co.uk/2021/02/05/07/dogecoin%20elon%20musk.jpg?width=1200)
 
 [Another Doge Picture](CSE_110_Lab_1/README.md)
 
 - [x] Finish this lab
-- [ ] Pass the CSE 110
+- [ ] Pass CSE 110
 - [ ] Graduate UCSD
 
 [Go Back to Information](#information)
