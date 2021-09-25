@@ -30,7 +30,7 @@ I enjoy reading some [xkcd](https://xkcd.com/).
 
 ![much speak. such doge.](https://static.independent.co.uk/2021/02/05/07/dogecoin%20elon%20musk.jpg?width=1200)
 
-[Another Doge Picture](CSE_110_Lab_1/README.md)
+[Another Doge Picture](README.md)
 
 - [x] Finish this lab
 - [ ] Pass CSE 110
