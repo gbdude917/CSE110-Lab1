@@ -1,12 +1,12 @@
 # User Page
 
 ## Information
-Gabriel Leong is currently a third year Computer Engineering sutdent at *UCSD*. He is well versed in the following programming languages: 
+I amd currently a third year Computer Engineering student at *UCSD*. I am well versed in the following programming languages: 
  - **Java** 
  - **C/C++**
  -  **Python**
 
-He is currently studying up on **HTML/CSS/JavaScript** during his freetime. When he is not busy tinkering with some code, you can find him at the gym, playing the piano, or in the kitchen learning a new recipe.
+I am also currently studying up on **HTML/CSS/JavaScript** during my freetime. When I am not busy tinkering with some code, you can find me at the gym, playing the piano, or in the kitchen learning a new recipe.
 
 ## Careers of Interest
 1. Front End Developer
@@ -30,7 +30,7 @@ I enjoy reading some [xkcd](https://xkcd.com/).
 
 ![much speak. such doge.](https://static.independent.co.uk/2021/02/05/07/dogecoin%20elon%20musk.jpg?width=1200)
 
-[Another Doge Picture](README.md)
+[Go to README.md](README.md)
 
 - [x] Finish this lab
 - [ ] Pass CSE 110
