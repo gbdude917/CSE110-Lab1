@@ -2,4 +2,6 @@
 
 Gabriel's User Page
 
-My favorite programming language is Java.
+My Favorite programming language is Java.
+
+Published Site: https://gbdude917.github.io/CSE110-Lab1/
