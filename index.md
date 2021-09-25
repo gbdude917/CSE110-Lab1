@@ -33,7 +33,7 @@ I enjoy reading some [xkcd](https://xkcd.com/).
 [Another Doge Picture](CSE_110_Lab_1/README.md)
 
 - [x] Finish this lab
-- [ ] Pass the CSE 110
+- [ ] Pass CSE 110
 - [ ] Graduate UCSD
 
 [Go Back to Information](#information)
